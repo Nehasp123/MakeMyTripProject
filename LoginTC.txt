@@ -1,0 +1,4 @@
+Open make my trip 
+Enter valid User name 
+Enter Valid password
+click on login 
